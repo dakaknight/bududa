@@ -25,6 +25,7 @@ params:
       url: /faq
       style: link
   footer_text: Copyright 2021 Planty Inc. All rights reserved.
+  domain: 'https://bududa-49592.netlify.app'
 taxonomies:
   stub: stub
 disableKinds:
